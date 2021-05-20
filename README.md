@@ -1,6 +1,6 @@
 # ActivePassivePolicy
 
-This repository holds my work motivated by the [problem set](https://github.com/chaserileyabram/ActivePassivePolicy/blob/master/econ33820_spring2021_ftpl_exercise.pdf) given by Greg Kaplan in his Spring 2021 reading group, where went through John Cochrane's draft of his [textbook](https://www.johnhcochrane.com/research-all/the-fiscal-theory-of-the-price-level-1).
+This repository holds my work motivated by the [problem set](https://github.com/chaserileyabram/ActivePassivePolicy/blob/master/econ33820_spring2021_ftpl_exercise.pdf) given by Greg Kaplan in his Spring 2021 reading group, where we went through John Cochrane's draft of his [textbook](https://www.johnhcochrane.com/research-all/the-fiscal-theory-of-the-price-level-1).
 
 
 My work here does not concern the introduction of capital or long-term debt, but instead focuses on gaining a better understanding of how monetary and fiscal policy interact. To facilitate this goal, the model used is the [simplest version of a continuous-time New Keynesian model](https://benjaminmoll.com/wp-content/uploads/2019/07/Lecture2_ECO521_web.pdf) with government debt.
